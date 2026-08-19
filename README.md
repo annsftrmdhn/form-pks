@@ -1,4 +1,4 @@
-# Generate Compile PKS DJBC-TNI AD
+# Generate Compile PKS -TNI AD
 
 Aplikasi web sederhana (Streamlit) untuk menggantikan proses input manual
 Compile PKS di kantor pusat. Kanwil upload file Excel PKS mereka masing-masing,
